@@ -1,0 +1,12 @@
+.welcomeContent {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.image {
+    width: 800px;
+    height: auto;
+    margin: 0 auto;
+}

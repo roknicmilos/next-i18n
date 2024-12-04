@@ -1,0 +1,18 @@
+{
+  "welcome": {
+    "title": "Willkommen zur Internationalisierungs-Demo"
+  },
+  "languageMenu": {
+    "activeLanguage": {
+      "label": "Die aktuelle Sprache ist:"
+    },
+    "changeLanguage": {
+      "label": "Sprache ändern zu:"
+    },
+    "allLanguages": {
+      "enLabel": "Englisch",
+      "deLabel": "Deutsch",
+      "nlLabel": "Niederländisch"
+    }
+  }
+}

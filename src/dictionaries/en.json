@@ -1,0 +1,19 @@
+{
+  "welcome": {
+    "title": "Welcome to internationalization demo",
+    "introText": "This is a demo app to shows how to use i18n (internationalization) in a Next.js app. Dutch translation is fully available, and German translation is partially available. If the current active language is German, this is why you're seeing this text in English."
+  },
+  "languageMenu": {
+    "activeLanguage": {
+      "label": "Current language is:"
+    },
+    "changeLanguage": {
+      "label": "Change language to:"
+    },
+    "allLanguages": {
+      "enLabel": "English",
+      "deLabel": "German",
+      "nlLabel": "Dutch"
+    }
+  }
+}
